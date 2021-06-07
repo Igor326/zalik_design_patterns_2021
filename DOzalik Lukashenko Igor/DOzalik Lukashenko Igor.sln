@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOzalik Lukashenko Igor", "DOzalik Lukashenko Igor\DOzalik Lukashenko Igor.csproj", "{34B15462-67A2-402E-838E-2BD314F41F99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOzalik part 2", "DOzalik part 2\DOzalik part 2.csproj", "{074AA5C8-1EEF-4395-A37E-B8B3D42F3EFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34B15462-67A2-402E-838E-2BD314F41F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34B15462-67A2-402E-838E-2BD314F41F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34B15462-67A2-402E-838E-2BD314F41F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34B15462-67A2-402E-838E-2BD314F41F99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{074AA5C8-1EEF-4395-A37E-B8B3D42F3EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074AA5C8-1EEF-4395-A37E-B8B3D42F3EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074AA5C8-1EEF-4395-A37E-B8B3D42F3EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074AA5C8-1EEF-4395-A37E-B8B3D42F3EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {638AA67F-912E-4446-83A4-0984043ADBC8}
+	EndGlobalSection
+EndGlobal
